@@ -1,10 +1,6 @@
----
-type: tech
-keywords: 
-tags: 
----
+# Slither Static Analysis Tool
 
-# Slither Static Analysis
+CLIther is a CLI tool for analyzing slither output.
 
 ## Links
 
